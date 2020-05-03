@@ -1,2 +1,2 @@
 # java
-Example programs.
+Example programs for Java.
